@@ -1,0 +1,16 @@
+
+Codigo para probar
+
+.infonosotros {
+    border: solid white;
+    border-radius: 50px;
+    background-color: #d4b8b8;
+    text-align: center;
+    width: 500px;
+    margin: 0 0 0 30%;
+  }
+
+
+  <div class="infonosotros">
+  <h1 class="infonosotros2">Sobre nosotros</h1>
+</div>
